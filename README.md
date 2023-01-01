@@ -2,8 +2,7 @@
 [Web Scraping](https://www.geeksforgeeks.org/what-is-web-scraping-and-how-to-use-it/) is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.
 
 ## Description
-[CoinMarketCap](https://coinmarketcap.com/) is the world's most-referenced price-tracking website for cryptoassets in the rapidly growing cryptocurrency space. Its mission is to make crypto discoverable and efficient globally by empowering retail users with unbiased, high quality and accurate information for drawing their own informed conclusions. 
-For example, [Historical Snapshots](https://coinmarketcap.com/historical/) contains the entire data in weekly format of the cryptocurrencies till present date.
+In this project, We'll retrieve information from this [page](https://coinmarketcap.com/historical/) and cryptocurrencies [page](https://coinmarketcap.com/historical/20130505/) Which is corresponding to the date's of first page using "Web scrapping". We'll use the python libraries [Requests](https://requests.readthedocs.io/en/latest/) and [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) to scrape data from first page. And [Selenium](https://selenium-python.readthedocs.io/) to scrape data corresponding [page](https://coinmarketcap.com/historical/20130505/)
 
 
 ## Getting Started
