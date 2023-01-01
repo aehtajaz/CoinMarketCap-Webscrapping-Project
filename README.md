@@ -1,4 +1,7 @@
 # Scraping Cryptocurrency Historical Data Snapshot Using python
+
+Check out the jupyter notebook here:  https://jovian.ai/aihtu-a8445/coinmarketcap-web-scrapping-project-afe27
+
 [Web Scraping](https://www.geeksforgeeks.org/what-is-web-scraping-and-how-to-use-it/) is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.
 
 ## Description
